@@ -14,3 +14,16 @@ author: author of the news article
 text: the text of the article; could be incomplete
 
 label: a label that marks the article as potentially unreliable. Where 1: unreliable and 0: reliable.
+
+
+Methods Used
+
+1.Bags of word for extracting featues.
+2.TF-IDF
+
+Classifiers Used
+
+RandomForest
+Naive Bayes
+SVC
+PassiveAggressiveClassifier
