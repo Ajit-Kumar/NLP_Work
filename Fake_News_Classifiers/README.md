@@ -24,6 +24,9 @@ Methods Used
 Classifiers Used
 
 RandomForest
+
 Naive Bayes
+
 SVC
+
 PassiveAggressiveClassifier
