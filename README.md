@@ -9,11 +9,12 @@ Following things are used for text cleaning
 
 re.sub()
 
-Replace with regular expression
-Replace multiple substrings with the same string
-Replace using the matched part
-Get the count of replaced parts
-Here we are going to replace all regural expression which are not between a to z or A to Z with whitespace.
+1. Replace with regular expression
+2. Replace multiple substrings with the same string
+3. Replace using the matched part
+4. Get the count of replaced parts
+5. Here we are going to replace all regural expression which are not between a to z or A to Z with whitespace.
 
 result.lower:
-By this we are going to replace all the words in Lower case,So that all are treated as equally
+
+1. By this we are going to replace all the words in Lower case,So that all are treated as equally
